@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, Star Shopper is here. Creating and learning new things. Posting my works here.
 
 <!--
 **StarShopper/StarShopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
