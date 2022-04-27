@@ -5,7 +5,7 @@
 
 - 🔭 Working on my web-CV. Cleaning all bugs and misunderstandings in my old projects
 - 🌱 I’m currently learning JavaScript, ReactJS.
-- 👯 Interested in Godot Engine. 
+- 👯 Interested in Godot Engine and how does it all work...
 - 🤔 I’m looking for help with a mentorship and code reviev. 
 - 💬 Ask me about in what I want to become in the future.
  
